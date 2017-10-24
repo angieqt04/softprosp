@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title>http://softprosp.com.co/static/autocomplete_light/addanother.js</title><link rel="stylesheet" type="text/css" href="addanother.js_archivos/viewsource.css"></head><body id="viewsource" class="highlight" style="-moz-tab-size: 4"><pre id="line1"><span></span><span class="error" title="Se encontró una etiqueta de comienzo sin ver un doctype primero. Se esperaba un “&lt;!DOCTYPE html&gt;”.">&lt;<span class="start-tag">html</span>&gt;</span><span>
+<span id="line2"></span></span><span>&lt;<span class="start-tag">head</span>&gt;</span><span></span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>404 Not Found</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">head</span>&gt;</span><span>
+<span id="line3"></span></span><span>&lt;<span class="start-tag">body</span> <span class="attribute-name">bgcolor</span>="<a class="attribute-value">white</a>"&gt;</span><span>
+<span id="line4"></span></span><span>&lt;<span class="start-tag">center</span>&gt;</span><span></span><span>&lt;<span class="start-tag">h1</span>&gt;</span><span>404 Not Found</span><span>&lt;/<span class="end-tag">h1</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">center</span>&gt;</span><span>
+<span id="line5"></span></span><span>&lt;<span class="start-tag">hr</span>&gt;</span><span></span><span>&lt;<span class="start-tag">center</span>&gt;</span><span>nginx/1.10.3 (Ubuntu)</span><span>&lt;/<span class="end-tag">center</span>&gt;</span><span>
+<span id="line6"></span></span><span>&lt;/<span class="end-tag">body</span>&gt;</span><span>
+<span id="line7"></span></span><span>&lt;/<span class="end-tag">html</span>&gt;</span><span>
+<span id="line8"></span></span></pre></body></html>
